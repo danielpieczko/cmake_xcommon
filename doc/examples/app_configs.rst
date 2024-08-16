@@ -77,4 +77,4 @@ An individual executable target can be built, so to build only ``cfgs_config1.xe
 .. code-block:: console
 
     cd build
-    xmake config1
+    xmake cfgs_config1
